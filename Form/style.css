@@ -1,0 +1,45 @@
+
+.main a{
+    text-decoration: none;
+   color: gray;
+}
+
+a:hover{
+    color: brown;
+    
+}
+a{
+    padding: 5px;
+}
+
+.main-container{
+    width: 700px;
+   
+    
+    margin-top: 10%;
+    
+}
+
+body{
+   
+}
+
+.form input{
+   
+    border: none;
+    border-bottom: 1px solid red;
+   margin-bottom: 30px;
+     
+}
+
+
+
+label{
+    font-size: 20px;
+    
+}
+footer{
+    background-color: black;
+     height: 300px;
+     width: auto;
+}
